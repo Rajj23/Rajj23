@@ -6,10 +6,11 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Building+Scalable+Distributed+Systems;Microservices+%7C+Spring+Boot+%7C+Kafka+%7C+Docker;650%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=35&lines=Building+Scalable+Distributed+Systems;Microservices+%7C+Spring+Boot+%7C+Kafka+%7C+Docker;650%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
   </a>
 </div>
 
+<br/>
 <br/>
 
 <!-- Profile Views & Followers -->
