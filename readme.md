@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Jaiswal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20System%20Designer%20%7C%20Problem%20Solver&descSize=18&descAlignY=52" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=180&section=header&text=Raj%20Jaiswal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20System%20Designer%20%7C%20Problem%20Solver&descSize=18&descAlignY=52" width="100%" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=35&lines=Building+Scalable+Distributed+Systems;Microservices+%7C+Spring+Boot+%7C+Kafka+%7C+Docker;650%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=650&height=35&lines=Building+Scalable+Distributed+Systems;Microservices+%7C+Spring+Boot+%7C+Kafka+%7C+Docker;650%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -200,13 +200,13 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajj23&amp;show_icons=true&amp;theme=radical&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=A960FF&amp;icon_color=F8D866&amp;text_color=FFFFFF&amp;hide_border=false&amp;count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajj23&amp;theme=radical&amp;border=7F3FBF&amp;background=0D1117&amp;stroke=A960FF&amp;ring=A960FF&amp;fire=F8D866&amp;currStreakLabel=F8D866" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajj23&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=0EA5E9&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=F8D866&amp;text_color=FFFFFF&amp;hide_border=false&amp;count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajj23&amp;theme=tokyonight&amp;border=0EA5E9&amp;background=0D1117&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=F8D866&amp;currStreakLabel=F8D866" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajj23&amp;layout=compact&amp;theme=radical&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=A960FF&amp;text_color=FFFFFF&amp;hide_border=false&amp;langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj23&amp;bg_color=0D1117&amp;color=A960FF&amp;line=A960FF&amp;point=F8D866&amp;area_color=7F3FBF&amp;area=true&amp;hide_border=true" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajj23&amp;layout=compact&amp;theme=tokyonight&amp;border_color=0EA5E9&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=FFFFFF&amp;hide_border=false&amp;langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj23&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=38BDF8&amp;point=F8D866&amp;area_color=0EA5E9&amp;area=true&amp;hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 ---
@@ -220,7 +220,7 @@
       <td>Enhancing microservices reliability &amp; fault tolerance</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-System_Design-7F3FBF?style=flat-square&logo=blueprint&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/-System_Design-0EA5E9?style=flat-square&logo=blueprint&logoColor=white" /></td>
       <td>Deepening system design fundamentals</td>
     </tr>
     <tr>
@@ -247,6 +247,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/rajjaiswal23_27/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Rajjaiswal23_27/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
   <a href="mailto:jaiswalraj7804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -258,5 +266,5 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=120&section=footer" width="100%" />
 </div>
