@@ -42,7 +42,7 @@
         <li>AWS Certified Cloud Practitioner</li>
         <li>Building <b>Microservices</b> &amp; <b>Distributed Systems</b></li>
         <li>Passionate about <b>System Design</b> &amp; <b>Clean Architecture</b></li>
-        <li>Solved <b>650+ DSA</b> problems in Java</li>
+        <li>Solved <b>680+ DSA</b> problems in Java</li>
         <li>Currently exploring <b>Advanced Backend Scalability Patterns</b></li>
       </ul>
     </td>
@@ -125,10 +125,10 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/rajj23/PayPal_Clone">
-        <img src="https://img.shields.io/badge/PayPal_Clone-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Clone" />
+        <img src="https://img.shields.io/badge/PayFlux-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayFlux" />
       </a>
       <br/><br/>
-      <b>Distributed Payment System</b>
+      <b>Distributed Microservices Payment Platform</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
@@ -139,10 +139,10 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/rajj23/Notion_Clone">
-        <img src="https://img.shields.io/badge/Notion_Clone-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Clone" />
+        <img src="https://img.shields.io/badge/BlockVerse-000000?style=for-the-badge&logo=notion&logoColor=white" alt="BlockVerse" />
       </a>
       <br/><br/>
-      <b>Full Stack Productivity App</b>
+      <b>Hierarchical Collaborative Workspace API</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -154,10 +154,10 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/rajj23/TaskManagment_Backend">
-        <img src="https://img.shields.io/badge/Task_Manager-4A154B?style=for-the-badge&logo=todoist&logoColor=white" alt="Task Management" />
+        <img src="https://img.shields.io/badge/TaskFlow-4A154B?style=for-the-badge&logo=todoist&logoColor=white" alt="TaskFlow" />
       </a>
       <br/><br/>
-      <b>Task Management Backend</b>
+      <b>Real-Time Workflow Engine</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -200,13 +200,11 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajj23&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=0EA5E9&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=F8D866&amp;text_color=FFFFFF&amp;hide_border=false&amp;count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajj23&amp;theme=tokyonight&amp;border=0EA5E9&amp;background=0D1117&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=F8D866&amp;currStreakLabel=F8D866" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajj23&amp;theme=tokyonight&amp;border=0EA5E9&amp;background=0D1117&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=F8D866&amp;currStreakLabel=F8D866" width="70%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajj23&amp;layout=compact&amp;theme=tokyonight&amp;border_color=0EA5E9&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=FFFFFF&amp;hide_border=false&amp;langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj23&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=38BDF8&amp;point=F8D866&amp;area_color=0EA5E9&amp;area=true&amp;hide_border=true" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj23&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=38BDF8&amp;point=F8D866&amp;area_color=0EA5E9&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -243,6 +241,10 @@
 ## Connect With Me
 
 <p align="center">
+  <a href="https://rajjaiswal.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/raj-jaiswal-lpu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
